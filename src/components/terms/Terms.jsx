@@ -8,7 +8,7 @@ const Terms = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h2>Terms of Use.</h2>
+            <h2>Terms of Use</h2>
           </div>
           <ul className="service__list">
             By downloading or using the app, these terms will automatically apply to you –
