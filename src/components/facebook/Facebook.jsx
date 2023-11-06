@@ -25,8 +25,8 @@ const Facebook = () => {
             <p> Nombre: Jesús Michael López Averanga </p>
             <p>Identificación Fiscal: 3486389010</p>
             <p> Correo Electrónico: securesoft.bol@gmail.com</p>
-            <p>Número Telefónico: +591 73509664</p>
-            <p>Dirección: Av. Buenos Aires, Calle Cuarto Centenario 1012, Z/ Villa Nueva Potosi</p>
+            <p>Número Telefónico: +59173509664</p>
+            <p>Dirección: CALLE CUARTO CENTENARIO, AVENIDA BUENOS AIRES, 00000 LA PAZ</p>
             <p> Nombre del Negocio: JESUS MICHAEL LOPEZ AVERANGA</p>
             <p>ID del Administrador: 1097850594534002</p>
             <br />
@@ -56,8 +56,8 @@ const Facebook = () => {
             <p> Name: Jesús Michael López Averanga </p>
             <p> Tax Identification: 3486389010</p>
             <p> Email: securesoft.bol@gmail.com</p>
-            <p> Phone Number: +591 73509664</p>
-            <p> Address: Av. Buenos Aires, Calle Cuarto Centenario 1012, Z/ Villa Nueva Potosi</p>
+            <p> Phone Number: +59173509664</p>
+            <p> Address: CALLE CUARTO CENTENARIO, AVENIDA BUENOS AIRES, 00000 LA PAZ</p>
             <p> Business Name: JESUS MICHAEL LOPEZ AVERANGA</p>
             <p> Admin ID: 1097850594534002</p>
             <br />
