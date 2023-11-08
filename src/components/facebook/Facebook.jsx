@@ -12,7 +12,7 @@ const Facebook = () => {
           <ul className="service__list">
             <li>
               Mi nombre es Jesus Michael Lopez Averanga, soy dueño del negocio
-              "JESUS MICHAEL LOPEZ AVERANGA", donde ofrezco mi servicio como
+              "LOPEZ AVERANGA JESUS MICHAEL", donde ofrezco mi servicio como
               desarrollador de aplicaciones web. Deseo verificar mi cuenta de administrador
               comercial con número de identificación 1097850594534002.
 
@@ -22,12 +22,12 @@ const Facebook = () => {
           </ul>
 
           <center>
-            <p> Nombre: Jesús Michael López Averanga </p>
+            <p> Nombre: JESUS MICHAEL LOPEZ AVERANGA</p>
             <p>Identificación Fiscal: 3486389010</p>
             <p> Correo Electrónico: securesoft.bol@gmail.com</p>
             <p>Número Telefónico: +59173509664</p>
-            <p>Dirección: CALLE CUARTO CENTENARIO, AVENIDA BUENOS AIRES, 00000 LA PAZ</p>
-            <p> Nombre del Negocio: JESUS MICHAEL LOPEZ AVERANGA</p>
+            <p>Dirección: CALLE 4 TO CENTENARIO AV.BUENOS AIRES NR.1012, 0000 LA PAZ</p>
+            <p> Nombre del Negocio: LOPEZ AVERANGA JESUS MICHAEL</p>
             <p>ID del Administrador: 1097850594534002</p>
             <br />
           </center>
@@ -43,7 +43,7 @@ const Facebook = () => {
           <ul className="service__list">
             <li>
               My name is Jesus Michael Lopez Averanga, and I am the owner of the business
-              "JESUS MICHAEL LOPEZ AVERANGA," where I offer my services as a
+              "LOPEZ AVERANGA JESUS MICHAEL" where I offer my services as a
               web application developer. I wish to verify my business admin account with
               identification number 1097850594534002.
 
@@ -53,12 +53,12 @@ const Facebook = () => {
           </ul>
 
           <center>
-            <p> Name: Jesús Michael López Averanga </p>
+            <p> Name: JESUS MICHAEL LOPEZ AVERANGA </p>
             <p> Tax Identification: 3486389010</p>
             <p> Email: securesoft.bol@gmail.com</p>
             <p> Phone Number: +59173509664</p>
-            <p> Address: CALLE CUARTO CENTENARIO, AVENIDA BUENOS AIRES, 00000 LA PAZ</p>
-            <p> Business Name: JESUS MICHAEL LOPEZ AVERANGA</p>
+            <p> Address: CALLE 4 TO CENTENARIO AV.BUENOS AIRES NR.1012, 0000 LA PAZ</p>
+            <p> Business Name: LOPEZ AVERANGA JESUS MICHAEL</p>
             <p> Admin ID: 1097850594534002</p>
             <br />
           </center>
