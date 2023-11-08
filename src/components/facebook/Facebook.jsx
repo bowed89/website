@@ -25,7 +25,8 @@ const Facebook = () => {
             <p> Nombre: JESUS MICHAEL LOPEZ AVERANGA</p>
             <p>Identificación Fiscal: 3486389010</p>
             <p> Correo Electrónico: securesoft.bol@gmail.com</p>
-            <p>Número Telefónico: +59173509664</p>
+            <p>Número Telefónico #1: +59122480829</p>
+            <p>Número Telefónico #2: +59173509664</p>
             <p>Dirección: CALLE 4 TO CENTENARIO AV.BUENOS AIRES NR.1012, 0000 LA PAZ</p>
             <p> Nombre del Negocio: LOPEZ AVERANGA JESUS MICHAEL</p>
             <p>ID del Administrador: 1097850594534002</p>
@@ -56,7 +57,8 @@ const Facebook = () => {
             <p> Name: JESUS MICHAEL LOPEZ AVERANGA </p>
             <p> Tax Identification: 3486389010</p>
             <p> Email: securesoft.bol@gmail.com</p>
-            <p> Phone Number: +59173509664</p>
+            <p> Phone Number #1: +59122480829</p>
+            <p> Phone Number #2: +59173509664</p>
             <p> Address: CALLE 4 TO CENTENARIO AV.BUENOS AIRES NR.1012, 0000 LA PAZ</p>
             <p> Business Name: LOPEZ AVERANGA JESUS MICHAEL</p>
             <p> Admin ID: 1097850594534002</p>
